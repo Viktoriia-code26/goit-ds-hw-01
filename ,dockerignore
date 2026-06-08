@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+addressbook.pkl
+contacts.txt
+.git/
